@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Mek</h1>
-<h3 align="left">My From England - London</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pGTVYrzM7U) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mek91) 
